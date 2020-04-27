@@ -2,13 +2,16 @@
 
 ### O deploy está no Heroku: https://leandro-apirest-produtos.herokuapp.com/swagger-ui.html
 
+
 * Acesso para lista de produtos: https://leandro-apirest-produtos.herokuapp.com/api/produtos
 
 * Acesso apenas um produto: https://leandro-apirest-produtos.herokuapp.com/api/produto/{id}
 
 * Salvar, Atualizar e Deletar um produto: https://leandro-apirest-produtos.herokuapp.com/api/produto/
 
-Estrutura de Projeto:
+
+* Estrutura de Projeto:
+
 ```
 │   .classpath
 │   .gitignore
