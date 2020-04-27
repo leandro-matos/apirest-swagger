@@ -10,7 +10,7 @@
 * Salvar, Atualizar e Deletar um produto: https://leandro-apirest-produtos.herokuapp.com/api/produto/
 
 
-### Estrutura de Projeto:
+### Estrutura do Projeto:
 
 ```
 │   .classpath
